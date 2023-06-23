@@ -19,7 +19,7 @@ If you contribute to this lesson and would like to acknowledge specific funding 
 
 ## Author(s)
 
-The contributoring author(s) to this lesson are:
+The contributing author(s) to this lesson are:
 
 * FIXME
 * FIXME
