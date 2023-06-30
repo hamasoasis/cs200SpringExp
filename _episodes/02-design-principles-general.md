@@ -1,14 +1,13 @@
 ---
-title: "Design Principles"
+title: "General Design Principles"
 teaching: 0
 exercises: 0
 questions:
-- "What are common design principles, and how do they differ for
-research software"
+- "What are most commonly used design principles?"
 objectives:
 - "To introduce common design principles"
 keypoints:
-- "Design principles abound -- they need to be adapted for research software"
+- " "
 ---
 
 # General Design Principles Found on the web
