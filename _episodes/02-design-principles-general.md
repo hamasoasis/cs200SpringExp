@@ -29,23 +29,5 @@ keypoints:
   * Dependency inversion
     * High level modules should not depend on low level modules\, only on abstractions
 
-# Some Research Software Specific Challenges
 
-![](img/loop.png)
-
-Many parts of the model and software system can be under research
-
-Requirements change throughout the lifecycle as knowledge grows
-
-Verification complicated by floating point representation
-
-Real world is messy
-
-# SOLID Principles Pose Some Difficulties
-
-![](img/solid.png)
-
-# Additional Considerations for Research Software
-
-![](img/RS.png)
 
