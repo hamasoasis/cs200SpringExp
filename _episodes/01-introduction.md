@@ -45,5 +45,5 @@ this module?
   * Some challenges are unique to RS\, not covered in the literature
   * Sometimes straight adoption of principles can be counterproductive
 
-![](img/tmp1.png)
+![](img/emph.png)
 
