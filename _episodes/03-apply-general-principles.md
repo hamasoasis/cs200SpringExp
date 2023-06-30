@@ -65,10 +65,6 @@ with higher spatial order than FTCS.
 We will work through one of them -- FTCS
 
 
-# Designing Software – High Level Phases
-
-![](img/elements.png)
-
 # Requirement gathering
 
 * To solve heat equation we need:

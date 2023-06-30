@@ -10,8 +10,9 @@ keypoints:
 - " "
 ---
 
-# General Design Principles Found on the web
+# General Design Principles
 
+* Found on the web
 * Encapsulate what varies
 * Favor composition over inheritance
 * Program to interfaces not implementations
@@ -28,5 +29,8 @@ keypoints:
   * Dependency inversion
     * High level modules should not depend on low level modules\, only on abstractions
 
+# Designing Software – High Level Phases
+
+![](img/elements.png)
 
 
