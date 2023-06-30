@@ -11,6 +11,8 @@ keypoints:
 - "Investing in design is critical for reliable, maintainable and extensible software"
 ---
 
+# Why Design
+
 * Investing some thought in design of software makes it possible to maintain\, reuse and extend it
 * Even if some research software begins its life as a one\-off use case\, it often gets reused
   * Without proper design it is likely to accrete features haphazardly and become a monstrosity
