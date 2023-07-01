@@ -5,7 +5,7 @@ exercises: 0
 questions:
 - "What are some ways of using these principles"
 objectives:
-- "Work through a simple example
+- "Work through a simple example"
 keypoints:
 - "Understanding process of software design with a simple application"
 ---
