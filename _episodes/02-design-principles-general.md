@@ -12,7 +12,7 @@ keypoints:
 
 # General Design Principles
 
-* Found on the web
+#Found on the web
 * Encapsulate what varies
 * Favor composition over inheritance
 * Program to interfaces not implementations
