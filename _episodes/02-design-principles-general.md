@@ -82,7 +82,7 @@ a stand-alone parallel sorter then it may either incorporate
 parallelization in the driver, or may add another component to handle
 the parallelization.
 
-#Connectivity
+# Connectivity
 
 This phase of design is devoted to understanding the interdependencies
 between components. In the stand-alone parallel sorting example with a
