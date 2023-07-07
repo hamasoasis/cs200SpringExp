@@ -12,13 +12,11 @@ keypoints:
 
 # Example 1 – Problem Description
 
-We have a house with exterior walls made of single material of thickness Lx
-
-The wall has some water pipes shown in the picture\.
-
+We have a house with exterior walls made of single material of
+thickness Lx\. The wall has some water pipes shown in the picture\.
 The inside temperature is kept at 70 degrees\. But outside temperature is expected to be \-40 degrees for 15\.5 hours\.
 
-Will the pipes freeze before the storm is over
+The question we are trying to answer is -- will the pipes freeze before the storm is over
 
 ![](img/example1.png)
 
@@ -91,15 +89,15 @@ We will work through one of them -- FTCS
   * Comparison utility
 
 * Binning components
-* Components that will work for any application of heat equation
-  * Driver
-  * Initialization – data containers
-  * I/O
-  * Comparison utility
-* Components that are application specific
-  * Mesh initialization – applying initial conditions
-  * Integrator
-  * Boundary conditions
+  * Components that will work for any application of heat equation
+    * Driver
+    * Initialization – data containers
+    * I/O
+    * Comparison utility
+  * Components that are application specific
+    * Mesh initialization – applying initial conditions
+    * Integrator
+    * Boundary conditions
 
 # Connectivity
 
