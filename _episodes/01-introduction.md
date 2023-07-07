@@ -14,7 +14,7 @@ keypoints:
 # Why Design
 
 * Investing some thought in design of software makes it possible to maintain\, reuse and extend it
-* Even if some research software begins its life as a one\-off use case\, it often gets reused
+* Even if some research software (RS) begins its life as a one\-off use case\, it often gets reused
 * Without proper design it is likely to accrete features haphazardly and become a monstrosity
 * Acquires a lot of technical debt in the process
 
