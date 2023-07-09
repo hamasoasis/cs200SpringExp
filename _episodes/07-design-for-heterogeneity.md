@@ -50,13 +50,13 @@ Task based work distribution
 
 __This is how many abstraction layers work__
 
-Infer the structure of the code
+* Infer the structure of the code
 
-Infer the map between algorithms and devices
+* Infer the map between algorithms and devices
 
-Infer the data movements
+* Infer the data movements
 
-Map computations to devices
+* Map computations to devices
 
 These are specified either through constructs or pragmas
 
@@ -74,5 +74,5 @@ __In either case performance depends upon how well the mapping is done__
 
 # Construction of Application with Components and Tools
 
-![](img/flashxschema3.png)
+![](img/flashxschema.png)
 
