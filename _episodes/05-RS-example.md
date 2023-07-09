@@ -114,29 +114,32 @@ shock has traveled.
 
 ![](img/abstract.png)
 
-__Constraints__
 
-Only infrastructure components have global view
+We consider the possibilities of abstractions as a first step in
+design. In this example we are looking at two types of decompositions:
+spatial and functional. The spatial decomposition uses a block as
+abstraction where for functional components there is no way to
+differentiate between the block and the whole domain. Functional
+decomposition assumes that physics operators are applied one at a
+time, and therefore they form the functional decomposition. Once we
+have these abstractions in place we have to consider other design
+considerations described below
 
-All physics solvers have block view only
 
 __Other Design Considerations__
 
-Data scoping
+* Data scoping -- which data items are visible to which portions of a component
 
-Interfaces in the API
+* Interfaces in the API -- a minimum set of accessor and mutator
+  functions needed to provide the needed funcionality
 
-Minimal Mesh API
-
-Initialize\_mesh
-
-Halo\_fill
-
-Access\_to\_data\_containers
-
-Reconcile\_fluxes
-
-Regrid
+* For example consider the minimal Mesh API needed to provide
+  infrastructural support
+  * Initialize\_mesh
+  * Halo\_fill
+  * Access\_to\_data\_containers
+  * Reconcile\_fluxes
+  * Regrid
 
 # A Design Model for Separation of Concerns
 
