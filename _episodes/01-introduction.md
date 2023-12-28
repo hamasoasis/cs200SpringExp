@@ -1,12 +1,13 @@
 ---
 title: "Introduction"
-teaching: 0
+Reading: 2mins
 exercises: 0
 questions:
-- "How to design research software"
+- "Why software engineering"
 objectives:
-- "To understand design principles and to be able to apply them to
-research software"
+- "What we mean by software engineering"
+- "What we mean by good software"
+- "How software engineering has changed since the 1970s"
 keypoints:
 - "Investing in design is critical for reliable, maintainable and extensible software"
 ---

@@ -9,10 +9,10 @@
 # cp: Carpentries (to use for instructor traning for instance)
 # incubator: Carpentries Incubator
 # intersect: INTERSECT
-carpentry: "intersect"
+carpentry: "EASI"
 
 # Overall title for pages.
-title: "Design"
+title: "Software Engineering"
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
@@ -35,7 +35,7 @@ repository: <USERNAME>/<PROJECT>
 email: "team@carpentries.org"
 
 # Sites.
-intersect_site: "https://intersect-training.org/"
+# intersect_site: "https://intersect-training.org/"
 coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 amy_site: "https://amy.carpentries.org/"
 carpentries_github: "https://github.com/carpentries"
